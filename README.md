@@ -1,5 +1,5 @@
-# Karls Cryptonator 9000
+# Karels Cryptonator 9000
 
 Regex-ding als hulpmiddel voor De Standaard's Karls Crypto.
 
-[Karls Cryptonator 9000](https://karls-crypto.pfiers.net)
+[Karels Cryptonator 9000](https://karels-crypto.pfiers.net)
